@@ -97,7 +97,7 @@ Not being familiar with Flask, I learned that running the by calling 'flask run'
 
 Running the app in debug mode using app.run(debug=True), enables debugging features and provides more detailed error messages during development.
 
-Questions:
+#### Running Test Commands:
 
 Running these commands: `w3m http://127.0.0.1:5000/user/Ann` and `w3m http://127.0.0.1:5000/user/Adam` invoked the GET method and returned either the user record (with code 200) or 'User Not Found' (with code 404).
 
