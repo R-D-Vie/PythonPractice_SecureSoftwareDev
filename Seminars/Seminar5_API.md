@@ -105,3 +105,9 @@ In VSCode, I also experimented with the `post` method to add a user to the dicti
 
 <img src="Screenshot 2023-07-09 145310.png">
 
+#### What is the capability achieved by the flask library?
+
+Flask is a useful web framework to allow the building of apps and APIs - it can be used to manage the underlying web-related tasks which underpin an application. In this example, it expemlifies the fact thst it can support HTTP methods like GET, POST, PUT, DELETE, which can be used to achieve CRDU capability.
+
+
+
